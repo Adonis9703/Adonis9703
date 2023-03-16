@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adonis9703
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Vue.js, Javascript, webcore...
+- 👀 I’m interested in Front-End, UE, Unity
+- 🌱 I’m currently learning Vue.js, Javascript, webcore, C++, C#, Python...
 - 📫 How to reach me: 1164818708@qq.com
 
 <!---
